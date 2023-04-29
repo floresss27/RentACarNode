@@ -36,3 +36,4 @@ class CategoriesRepository {
 }
 
 export { CategoriesRepository };
+
